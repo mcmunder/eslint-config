@@ -1,6 +1,6 @@
 # @mcmunder/eslint-config
 
-Sharable eslint config for usage in JavaScript/TypeScript, React + emotion projects. Includes all necessary configs and plugins.
+Sharable eslint config for usage in JavaScript/TypeScript, React + emotion projects. Lists all necessary configs and plugins as peerDependencies.
 
 ## Usage
 
