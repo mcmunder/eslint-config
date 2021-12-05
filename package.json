@@ -1,6 +1,6 @@
 {
   "name": "@mcmunder/eslint-config",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "@mcmunder's sharable eslint-config",
   "main": "index.js",
   "keywords": [
